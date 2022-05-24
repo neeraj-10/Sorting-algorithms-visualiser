@@ -9,7 +9,7 @@ Algorithms implemented:
 4. Quick Sort
 5. Merge Sort
 
-Technologies
-HTML
-CSS
-Javascript
+Technologies Used:
+1. HTML
+2. CSS
+3. Javascript
